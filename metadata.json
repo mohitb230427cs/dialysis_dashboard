@@ -1,0 +1,5 @@
+{
+  "name": "Dialysis Session Intake & Anomaly Dashboard",
+  "description": "A professional healthcare dashboard for dialysis center staff to manage patient sessions and detect clinical anomalies.",
+  "requestFramePermissions": []
+}
